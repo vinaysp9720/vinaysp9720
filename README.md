@@ -1,6 +1,6 @@
 ## Hi there 👋
 Myself an IAM implementation specialist.
-Looking forward to work on Sailpoint projects.
+Looking forward to work on Sailpoint IIQ projects.
 <!--
 **vinaysp9720/vinaysp9720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
